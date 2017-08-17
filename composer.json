@@ -1,0 +1,10 @@
+{
+    "name": "herson/my-project",
+    "authors": [
+        {
+            "name": "Hers0n",
+            "email": "hnadalon@inf.ufsm.br"
+        }
+    ],
+    "require": {}
+}
